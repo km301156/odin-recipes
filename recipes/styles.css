@@ -1,0 +1,14 @@
+.title {
+    color: black;
+    text-align: center;
+    background-color: violet;
+
+
+}
+
+ul, ol {
+    color: green;
+    text-align: center;
+    background-color: black;
+    font-family: sans-serif;
+}
